@@ -38,7 +38,6 @@
 ###
 
 <p align="left">Welcome to my GitHub profile! I’m a Computer Science student at Universitas Lampung, passionate about web development, machine learning, and mobile app development. I enjoy exploring new technologies and tackling real-world problems through coding and machine learning.<br><br>🚀 About Me:<br>
-<li>
   <ul>
     <li>📚 Currently in my 5th semester at Universitas Lampung, majoring in Computer Science.</li>
     <li>🛠️ Experienced with Laravel, Python, and working on web programs.</li>
@@ -46,7 +45,6 @@
     <li>🌏 Aspiring to teach tech on a global scale and share knowledge across borders.</li>
     <li>🚗 Dreaming of becoming a <b>Software Engineer at the F1 Red Bull Team</b> and contributing to the exciting world of motorsport technology.</li>
   </ul>
-</li>
 
 ###
 
