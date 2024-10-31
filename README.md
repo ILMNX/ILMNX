@@ -37,7 +37,9 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I’m a Computer Science student at Universitas Lampung, passionate about web development, machine learning, and mobile app development. I enjoy exploring new technologies and tackling real-world problems through coding and machine learning.<br><br>🚀 About Me:<br>- 📚 Currently in my 5th semester at Universitas Lampung, majoring in Computer Science.<br>- 🛠️ Experienced with Laravel, Python, and working on web programs.<br>- 🌱 Exploring <b>machine learning</b> and <b>recommendation systems</b> for my research project on the **EVALUATION OF THE IMPACT OF MACHINE LEARNING ALGORITHMS ON COMPUTATIONAL EFFICIENCY OF RECOMMENDATION SYSTEMS ON E-COMMERCE PLATFORMS**.<br>- 🌏 Aspiring to teach tech on a global scale and sharing knowledge across borders.<br>- 🚗 Dreaming of becoming a <b>Software Engineer at the F1 Red Bull Team</b> and contributing to the exciting world of motorsport technology.</p>
+<p align="left">Welcome to my GitHub profile! I’m a Computer Science student at Universitas Lampung, passionate about web development, machine learning, and mobile app development. I enjoy exploring new technologies and tackling real-world problems through coding and machine learning.<br><br>🚀 About Me:<br>
+<li>
+  <ul>- 📚 Currently in my 5th semester at Universitas Lampung, majoring in Computer Science.</ul><br><ul>- 🛠️ Experienced with Laravel, Python, and working on web programs.</ul><br><ul>- 🌱 Exploring <b>machine learning</b> and <b>recommendation systems</b> for my research project on the **EVALUATION OF THE IMPACT OF MACHINE LEARNING ALGORITHMS ON COMPUTATIONAL EFFICIENCY OF RECOMMENDATION SYSTEMS ON E-COMMERCE PLATFORMS**.</ul><br><ul>- 🌏 Aspiring to teach tech on a global scale and sharing knowledge across borders.</ul><br><ul>- 🚗 Dreaming of becoming a <b>Software Engineer at the F1 Red Bull Team</b> and contributing to the exciting world of motorsport technology.</p></ul></li>
 
 ###
 
